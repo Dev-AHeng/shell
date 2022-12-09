@@ -1,0 +1,24 @@
+{
+  "aodStyle": 0,
+  "aodType": 1,
+  "bold": 0,
+  "color": [
+    -1,
+    -1
+  ],
+  "colorIndex": 0,
+  "composing": 0,
+  "fontSize": 0,
+  "index": 0,
+  "isShowBattery": 1,
+  "isShowCalendar": 1,
+  "isShowFootstep": 0,
+  "isShowLunarCalendar": 0,
+  "isShowNotification": 0,
+  "isShowRaiseTime": 0,
+  "isShowTime": 0,
+  "isShowWeather": 0,
+  "subStyle": 0,
+  "typeString": "经典简约",
+  "zkPathString": "data/aod/zkAod/classictime/.cache/chorizontaltime"
+}

@@ -1,0 +1,223 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<settings version="192">
+  <setting id="37" name="mz_intelligent_voice_headset_wakeup" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="99" name="subscreen_weather" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="151" name="email_sound" value="content://media/internal/audio/media/49?title=001_Bell&amp;canonical=1" package="com.android.providers.media.module" />
+  <setting id="40" name="mz_quick_wakeup_slide_up" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="73" name="haptic_feedback_theme" value="content://com.immersion.android.haptics.defaulttheme" package="android" defaultValue="content://com.immersion.android.haptics.defaulttheme" defaultSysSet="true" />
+  <setting id="80" name="key_sounds_enabled" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="1989" name="flyme_notification_ringid" value="-1" package="android" defaultValue="-1" defaultSysSet="true" preserve_in_restore="true" />
+  <setting id="202" name="luckymoney_wechat_keyword" value="\[微信红包\]" package="com.flyme.systemuitools" defaultValue="\[微信红包\]" defaultSysSet="true" preserve_in_restore="true" />
+  <setting id="67" name="mz_scheduled_power_on" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="278" name="set_wallpaper_simultaneously" value="0" package="com.meizu.customizecenter" defaultValue="0" defaultSysSet="true" preserve_in_restore="true" />
+  <setting id="78" name="hifi_music_param" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="4806" name="aod_display_mode" value="0" package="com.android.settings" defaultValue="0" defaultSysSet="true" preserve_in_restore="true" />
+  <setting id="57" name="mz_smart_touch_behavior_up" value="3" package="android" defaultValue="3" defaultSysSet="true" />
+  <setting id="69" name="mz_scheduled_power_on_h" value="7" package="android" defaultValue="7" defaultSysSet="true" />
+  <setting id="70" name="mz_scheduled_power_on_m" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="3500" name="simpleVersion" value="0" package="com.meizu.media.video" defaultValue="0" defaultSysSet="true" />
+  <setting id="385" name="mz_current_network_speed" value="1" package="com.android.settings" defaultValue="1" defaultSysSet="true" />
+  <setting id="336" name="send_cc_screen_off_broadcast_min_time_interval" value="0" package="com.meizu.net.nativelockscreen" defaultValue="0" defaultSysSet="true" preserve_in_restore="true" />
+  <setting id="38" name="mz_quick_wakeup_switch" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="29" name="mode_ring_up" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="4293" name="reverse_charging_limiting_level" value="20" package="com.android.settings" defaultValue="20" defaultSysSet="true" preserve_in_restore="true" />
+  <setting id="75" name="haptic_feedback_ui_strength" value="10000" package="android" defaultValue="10000" defaultSysSet="true" />
+  <setting id="341" name="lock_ad_switch_zk" value="1" package="com.meizu.net.nativelockscreen" defaultValue="1" defaultSysSet="true" />
+  <setting id="83" name="key_sound" value="/system/media/audio/ui/keyloud.wav" package="android" defaultValue="/system/media/audio/ui/keyloud.wav" defaultSysSet="true" />
+  <setting id="4253" name="volume_music_speaker" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="179" name="com.meizu.flyme.FindPhone" value="0" package="com.meizu.flyme.service.find" defaultValue="0" defaultSysSet="true" />
+  <setting id="43" name="mz_quick_wakeup_slide_right" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="19" name="notification_light_pulse" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="315" name="auto_change_wallpaper_switch" value="0" package="com.meizu.customizecenter" defaultValue="0" defaultSysSet="true" preserve_in_restore="true" />
+  <setting id="105" name="subscreen_notification_incoming_call" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="95" name="presskey_feedback_intensity" value="com.meizu.flyme.android.haptictheme.Press_Default" package="android" defaultValue="com.meizu.flyme.android.haptictheme.Press_Default" defaultSysSet="true" />
+  <setting id="145" name="notification_sound" value="content://media/internal/audio/media/49?title=001_Bell&amp;canonical=1" package="com.android.providers.media.module" />
+  <setting id="419" name="mz_fingerprint_use_unlock" value="1" package="com.android.settings" defaultValue="1" defaultSysSet="true" preserve_in_restore="true" />
+  <setting id="340" name="lockscreen_show_ad" value="1" package="com.meizu.net.nativelockscreen" defaultValue="1" defaultSysSet="true" />
+  <setting id="205" name="luckymoney_qq_keyword" value="[QQ红包]" package="com.flyme.systemuitools" defaultValue="[QQ红包]" defaultSysSet="true" preserve_in_restore="true" />
+  <setting id="4" name="volume_alarm" value="8" package="android" defaultValue="8" defaultSysSet="true" />
+  <setting id="0" name="volume_music" value="32" package="android" defaultValue="32" defaultSysSet="true" />
+  <setting id="3" name="volume_voice" value="4" package="android" defaultValue="4" defaultSysSet="true" />
+  <setting id="118" name="earphone_feedback" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="114" name="power_double_click" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="94" name="homekey_feedback_intensity" value="content://com.immersion.android.haptics.defaulttheme" package="android" defaultValue="content://com.immersion.android.haptics.defaulttheme" defaultSysSet="true" />
+  <setting id="41" name="mz_quick_wakeup_slide_down" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="42" name="mz_quick_wakeup_slide_left" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="108" name="mz_show_navigation_bar" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="22" name="call_connected_tone_enabled" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="36" name="mz_intelligent_voice_home_wakeup" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="961" name="ringtone" value="content://media/external/audio/media/86" package="com.meizu.customizecenter" defaultValue="content://media/external/audio/media/86" defaultSysSet="true" preserve_in_restore="true" />
+  <setting id="103" name="subscreen_screen_capture" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="106" name="subscreen_notification_remind" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="74" name="haptic_feedback_keyboard_strength" value="10000" package="android" defaultValue="10000" defaultSysSet="true" />
+  <setting id="4439" name="aod_timing_mode_end_time" value="00:02" package="root" defaultValue="00:01" defaultSysSet="true" preserve_in_restore="true" />
+  <setting id="64" name="mz_scheduled_power_off_days" value="127" package="android" defaultValue="127" defaultSysSet="true" />
+  <setting id="72" name="mz_scheduled_power_off_time" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="1081" name="flyme_phone_ringid" value="5041" package="com.android.server.telecom" defaultValue="5041" defaultSysSet="true" preserve_in_restore="true" />
+  <setting id="3941" name="window_mode_app_white_list" value='{"code":200,"message":"","updateTime":1656038884757,"value":{"value":["com.tencent.mm","com.tencent.mobileqq","com.tencent.tim","com.alibaba.android.rimet","com.android.mms","com.sina.weibo","com.meizu.flyme.calculator","com.meizu.account","com.android.browser","com.netease.cloudmusic","com.tencent.wework","com.meizu.flyme.gamecenter","com.meizu.gamecenter.service","com.meizu.notepaper","com.smzdm.client.android","com.kingsoft","cn.xiaochuankeji.tieba","com.fenbi.android.solar","com.fenbi.android.gaozhong","com.yuantiku.tutor","com.chaoxing.mobile","com.mosoink.teach","com.tencent.weishi","com.ss.android.article.video","cmccwm.mobilemusic","com.xunmeng.merchant","com.cubic.autohome","com.android.soundrecorder","com.meizu.flyme.toolbox","com.meizu.filemanager","com.bilibili.app.in"]}}' package="com.flyme.systemuitools" defaultValue='{"code":200,"message":"","updateTime":1656038884757,"value":{"value":["com.tencent.mm","com.tencent.mobileqq","com.tencent.tim","com.alibaba.android.rimet","com.android.mms","com.sina.weibo","com.meizu.flyme.calculator","com.meizu.account","com.android.browser","com.netease.cloudmusic","com.tencent.wework","com.meizu.flyme.gamecenter","com.meizu.gamecenter.service","com.meizu.notepaper","com.smzdm.client.android","com.kingsoft","cn.xiaochuankeji.tieba","com.fenbi.android.solar","com.fenbi.android.gaozhong","com.yuantiku.tutor","com.chaoxing.mobile","com.mosoink.teach","com.tencent.weishi","com.ss.android.article.video","cmccwm.mobilemusic","com.xunmeng.merchant","com.cubic.autohome","com.android.soundrecorder","com.meizu.flyme.toolbox","com.meizu.filemanager","com.bilibili.app.in"]}}' defaultSysSet="true" preserve_in_restore="true" />
+  <setting id="65" name="mz_scheduled_power_off_h" value="23" package="android" defaultValue="23" defaultSysSet="true" />
+  <setting id="66" name="mz_scheduled_power_off_m" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="163" name="festival_wallpaper_switch" value="1" package="com.meizu.customizecenter" defaultValue="1" defaultSysSet="true" preserve_in_restore="true" />
+  <setting id="4818" name="my_aod" value='[{"aodStyle":0,"aodType":1,"bold":0,"color":[-1,-1],"colorIndex":0,"composing":0,"fontSize":0,"index":0,"isShowBattery":1,"isShowCalendar":1,"isShowFootstep":0,"isShowLunarCalendar":0,"isShowNotification":0,"isShowRaiseTime":0,"isShowTime":0,"isShowWeather":0,"subStyle":0,"typeString":"经典简约","zkPathString":"data/aod/zkAod/classictime/.cache/chorizontaltime"}]' package="com.flyme.aod" defaultValue='[{"aodStyle":0,"aodType":1,"bold":0,"color":[-1,-1],"colorIndex":0,"composing":0,"fontSize":0,"index":0,"isShowBattery":1,"isShowCalendar":1,"isShowFootstep":0,"isShowLunarCalendar":0,"isShowNotification":0,"isShowRaiseTime":0,"isShowTime":0,"isShowWeather":0,"subStyle":0,"typeString":"经典简约","zkPathString":"data/aod/zkAod/classictime/.cache/chorizontaltime"}]' defaultSysSet="true" preserve_in_restore="true" />
+  <setting id="12" name="hearing_aid" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="206" name="alive_wallpaper_position" value="311|525|769|983" package="com.flyme.aod" defaultValue="311|525|769|983" defaultSysSet="true" preserve_in_restore="true" />
+  <setting id="92" name="home_double_click" value="2" package="android" defaultValue="2" defaultSysSet="true" />
+  <setting id="55" name="mz_smart_touch_behavior_doubleclick" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="149" name="mms_sound" value="content://media/internal/audio/media/50?title=002_Celesta&amp;canonical=1" package="com.android.providers.media.module" />
+  <setting id="207" name="mz_safe_pay_show" value="0" package="com.android.phone" defaultValue="0" defaultSysSet="true" preserve_in_restore="true" />
+  <setting id="277" name="hasLockWallpaper" value="1" package="com.android.systemui" defaultValue="1" defaultSysSet="true" preserve_in_restore="true" />
+  <setting id="331" name="settings_varied_wallpaper_switch" value="0" package="com.meizu.net.nativelockscreen" defaultValue="0" defaultSysSet="true" />
+  <setting id="335" name="is_need_send_cc_screen_off_broadcast" value="1" package="com.meizu.net.nativelockscreen" defaultValue="1" defaultSysSet="true" preserve_in_restore="true" />
+  <setting id="1" name="volume_ring" value="8" package="android" defaultValue="8" defaultSysSet="true" />
+  <setting id="58" name="mz_smart_touch_behavior_down" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="56" name="mz_smart_touch_behavior_long" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="100" name="subscreen_pedometer" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="330" name="settings_auto_change_wallpaper_switch" value="0" package="com.meizu.net.nativelockscreen" defaultValue="0" defaultSysSet="true" />
+  <setting id="85" name="mz_status_bar_tint" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="68" name="mz_scheduled_power_on_days" value="127" package="android" defaultValue="127" defaultSysSet="true" />
+  <setting id="71" name="mz_scheduled_power_on_time" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="3724" name="screen_auto_brightness_adj" value="0.33567068" package="android" defaultValue="0.33567068" defaultSysSet="true" preserve_in_restore="true" />
+  <setting id="54" name="mz_smart_touch_behavior_click" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="2194" name="radio.data.stall.recovery.action" value="0" package="com.android.phone" defaultValue="0" defaultSysSet="true" preserve_in_restore="true" />
+  <setting id="388" name="statusbar_battery_percent" value="1" package="com.android.settings" defaultValue="1" defaultSysSet="true" preserve_in_restore="true" />
+  <setting id="4251" name="last_volume_music_speaker" value="0" package="android" defaultValue="0" defaultSysSet="true" preserve_in_restore="true" />
+  <setting id="2561" name="screen_brightness_mode" value="1" package="com.android.systemui" defaultValue="1" defaultSysSet="true" preserve_in_restore="true" />
+  <setting id="148" name="alarm_alert_set" value="1" package="com.android.providers.media.module" />
+  <setting id="275" name="SHOW_LOCK_SCREEN_POSTER_ICON" value="1" package="com.meizu.customizecenter" defaultValue="1" defaultSysSet="true" preserve_in_restore="true" />
+  <setting id="8" name="mute_streams_affected" value="111" package="android" defaultValue="111" defaultSysSet="true" />
+  <setting id="3830" name="lockscreen_music" value="0" package="com.android.settings" defaultValue="0" defaultSysSet="true" preserve_in_restore="true" />
+  <setting id="82" name="camera_sound" value="/system/media/audio/ui/camera_click.ogg" package="android" defaultValue="/system/media/audio/ui/camera_click.ogg" defaultSysSet="true" />
+  <setting id="414" name="using_font_name" value="阅读黑体" package="com.meizu.customizecenter" defaultValue="阅读黑体" defaultSysSet="true" />
+  <setting id="154" name="calendar_sound_set" value="1" package="com.android.providers.media.module" />
+  <setting id="13" name="tty_mode" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="170" name="meizu_data_collection" value="0" package="com.meizu.setup" defaultValue="0" defaultSysSet="true" preserve_in_restore="true" />
+  <setting id="15" name="screen_brightness_for_vr" value="86" package="android" defaultValue="86" defaultSysSet="true" />
+  <setting id="962" name="ringtone_set" value="1" package="com.meizu.customizecenter" defaultValue="1" defaultSysSet="true" preserve_in_restore="true" />
+  <setting id="107" name="subscreen_notification_phone_status" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="125" name="font_scale" value="1.0" package="android" defaultValue="1.0" defaultSysSet="true" />
+  <setting id="9" name="dim_screen" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="4816" name="aod_current_style" value='{"aodStyle":0,"aodType":1,"bold":0,"color":[-1,-1],"colorIndex":0,"composing":0,"fontSize":0,"index":0,"isShowBattery":1,"isShowCalendar":1,"isShowFootstep":0,"isShowLunarCalendar":0,"isShowNotification":0,"isShowRaiseTime":0,"isShowTime":0,"isShowWeather":0,"subStyle":0,"typeString":"经典简约","zkPathString":"data/aod/zkAod/classictime/.cache/chorizontaltime"}' package="com.flyme.aod" defaultValue='{"aodStyle":0,"aodType":1,"bold":0,"color":[-1,-1],"colorIndex":0,"composing":0,"fontSize":0,"index":0,"isShowBattery":1,"isShowCalendar":1,"isShowFootstep":0,"isShowLunarCalendar":0,"isShowNotification":0,"isShowRaiseTime":0,"isShowTime":0,"isShowWeather":0,"subStyle":0,"typeString":"经典简约","zkPathString":"data/aod/zkAod/classictime/.cache/chorizontaltime"}' defaultSysSet="true" preserve_in_restore="true" />
+  <setting id="89" name="mz_tapdet_sensor_mode" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="88" name="mz_display_lut_mode" value="3" package="android" defaultValue="3" defaultSysSet="true" />
+  <setting id="115" name="end_button_behavior" value="2" package="android" defaultValue="2" defaultSysSet="true" />
+  <setting id="4738" name="is_unlock" value="1" package="com.android.systemui" defaultValue="1" defaultSysSet="true" preserve_in_restore="true" />
+  <setting id="339" name="show_festival_wallpaper" value="0" package="com.meizu.net.nativelockscreen" defaultValue="0" defaultSysSet="true" />
+  <setting id="86" name="lockscreen_pull_notificationbar" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="150" name="mms_sound_set" value="1" package="com.android.providers.media.module" />
+  <setting id="4807" name="last_time_send_cc_screen_off_broadcast" value="1656163589606" package="android" defaultValue="1656163589606" defaultSysSet="true" preserve_in_restore="true" />
+  <setting id="97" name="msim_mode_setting" value="3" package="android" defaultValue="3" defaultSysSet="true" />
+  <setting id="146" name="notification_sound_set" value="1" package="com.android.providers.media.module" />
+  <setting id="6" name="volume_bluetooth_sco" value="10" package="android" defaultValue="10" defaultSysSet="true" />
+  <setting id="4814" name="screen_brightness_float" value="0.37671953" package="android" defaultValue="0.37671953" defaultSysSet="true" />
+  <setting id="425" name="lockscreen_sounds_enabled" value="0" package="com.android.settings" defaultValue="0" defaultSysSet="true" preserve_in_restore="true" />
+  <setting id="32" name="mz_mtp_unlocked" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="203" name="luckymoney_wechat_msgtype_name" value="MainUI_User_Last_Msg_Type" package="com.flyme.systemuitools" defaultValue="MainUI_User_Last_Msg_Type" defaultSysSet="true" preserve_in_restore="true" />
+  <setting id="4431" name="aod_timing_mode_start_time" value="00:00" package="root" defaultValue="00:00" defaultSysSet="true" preserve_in_restore="true" />
+  <setting id="293" name="user_rotation" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="2183" name="volume_voice_earpiece" value="11" package="android" defaultValue="11" defaultSysSet="true" />
+  <setting id="31" name="mz_show_access_password" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="183" name="wellcome_page_version" value="9" package="com.flyme.systemuitools" defaultValue="9" defaultSysSet="true" />
+  <setting id="365" name="accelerometer_rotation" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="62" name="cpu_l" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="356" name="current_apply_theme_pkg_name" value="com.meizu.theme.system" package="com.meizu.customizecenter" defaultValue="com.meizu.theme.system" defaultSysSet="true" preserve_in_restore="true" />
+  <setting id="204" name="luckymoney_wechat_msgtype_value" value="436207665" package="com.flyme.systemuitools" defaultValue="436207665" defaultSysSet="true" preserve_in_restore="true" />
+  <setting id="84" name="voice_assistent_use_in_lockscreen" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="348" name="settings_next_lock_screen_poster_url" value="/system/customizecenter/wallpapers/h.png" package="com.meizu.net.nativelockscreen" defaultValue="/system/customizecenter/wallpapers/h.png" defaultSysSet="true" preserve_in_restore="true" />
+  <setting id="33" name="mz_show_mtp_notification" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="4139" name="mz_region" value="CN" package="com.android.settings" defaultValue="CN" defaultSysSet="true" />
+  <setting id="3853" name="screen_off_timeout" value="60000" package="com.android.settings" defaultValue="60000" defaultSysSet="true" preserve_in_restore="true" />
+  <setting id="90" name="mz_tapdet_sensor_enable" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="4802" name="show_touches" value="0" package="com.flyme.systemuiex" defaultValue="0" defaultSysSet="true" preserve_in_restore="true" />
+  <setting id="121" name="choose_network_provider_mode" value="auto" package="android" defaultValue="auto" defaultSysSet="true" />
+  <setting id="60" name="intercpt_powerkey" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="867" name="volume_notification_speaker" value="15" package="android" defaultValue="15" defaultSysSet="true" />
+  <setting id="175" name="aod_hidden_style" value='{"aodStyle":1000,"aodType":100,"bold":0,"color":[-1,-1],"colorIndex":0,"composing":0,"fontSize":0,"index":0,"isShowBattery":1,"isShowCalendar":1,"isShowFootstep":0,"isShowLunarCalendar":0,"isShowNotification":0,"isShowRaiseTime":0,"isShowTime":0,"isShowWeather":0,"subStyle":0,"zkPathString":"data/aod/zkAod/hidden/.cache/hverticaltime"}' package="com.flyme.aod" defaultValue='{"aodStyle":1000,"aodType":100,"bold":0,"color":[-1,-1],"colorIndex":0,"composing":0,"fontSize":0,"index":0,"isShowBattery":1,"isShowCalendar":1,"isShowFootstep":0,"isShowLunarCalendar":0,"isShowNotification":0,"isShowRaiseTime":0,"isShowTime":0,"isShowWeather":0,"subStyle":0,"zkPathString":"data/aod/zkAod/hidden/.cache/hverticaltime"}' defaultSysSet="true" />
+  <setting id="332" name="SETTINGS_SHOW_LOCK_SCREEN_POSTER_ICON" value="0" package="com.meizu.net.nativelockscreen" defaultValue="0" defaultSysSet="true" />
+  <setting id="318" name="vibrate_when_ringing" value="1" package="com.android.systemui" defaultValue="1" defaultSysSet="true" preserve_in_restore="true" />
+  <setting id="364" name="hide_rotation_lock_toggle_for_accessibility" value="0" package="com.android.systemui" defaultValue="0" defaultSysSet="true" preserve_in_restore="true" />
+  <setting id="147" name="alarm_alert" value="content://media/internal/audio/media/6?title=001_Awaken&amp;canonical=1" package="com.android.providers.media.module" />
+  <setting id="4812" name="aod_position" value="1032" package="com.flyme.aod" defaultValue="1032" defaultSysSet="true" preserve_in_restore="true" />
+  <setting id="533" name="first_screenshot" value="0" package="com.android.systemui" defaultValue="0" defaultSysSet="true" />
+  <setting id="164" name="is_allow_show_text_in_lockscreen" value="1" package="com.meizu.customizecenter" defaultValue="1" defaultSysSet="true" preserve_in_restore="true" />
+  <setting id="24" name="pointer_speed" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="138" name="desktop_app_recommend" value="-1" package="com.android.settings" defaultValue="-1" defaultSysSet="true" preserve_in_restore="true" />
+  <setting id="102" name="subscreen_camera" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="61" name="list_hold_sound" value="/system/media/audio/ui/list_hold_sound.ogg" package="android" defaultValue="/system/media/audio/ui/list_hold_sound.ogg" defaultSysSet="true" />
+  <setting id="342" name="settings_lock_support_long_press" value="0" package="com.meizu.net.nativelockscreen" defaultValue="0" defaultSysSet="true" />
+  <setting id="276" name="enter_ambient_mode" value="0" package="com.flyme.aod" defaultValue="0" defaultSysSet="true" preserve_in_restore="true" />
+  <setting id="30" name="mz_guard_mode" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="1912" name="volume_music_bt_a2dp" value="30" package="android" defaultValue="30" defaultSysSet="true" preserve_in_restore="true" />
+  <setting id="4736" name="network_provider_package" value="com.meizu.location" package="android" defaultValue="com.meizu.location" defaultSysSet="true" preserve_in_restore="true" />
+  <setting id="211" name="aod_version_code" value="9.3.9" package="com.flyme.aod" defaultValue="9.3.9" defaultSysSet="true" preserve_in_restore="true" />
+  <setting id="7" name="mode_ringer_streams_affected" value="166" package="android" defaultValue="166" defaultSysSet="true" />
+  <setting id="77" name="hifi_music_enabled" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="123" name="system_first_boot" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="28" name="button_brightness" value="160" package="android" defaultValue="160" defaultSysSet="true" />
+  <setting id="185" name="start_from_setup" value="0" package="com.flyme.systemuitools" defaultValue="0" defaultSysSet="true" preserve_in_restore="true" />
+  <setting id="153" name="calendar_sound" value="content://media/internal/audio/media/53?title=Doorbell&amp;canonical=1" package="com.android.providers.media.module" />
+  <setting id="5" name="volume_notification" value="8" package="android" defaultValue="8" defaultSysSet="true" />
+  <setting id="257" name="oem_black_mode" value="1" package="root" />
+  <setting id="152" name="email_sound_set" value="1" package="com.android.providers.media.module" />
+  <setting id="11" name="dtmf_tone_type" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="428" name="dtmf_tone" value="0" package="com.android.settings" defaultValue="0" defaultSysSet="true" preserve_in_restore="true" />
+  <setting id="964" name="ringtone_sound_phone_1_set" value="1" package="com.meizu.customizecenter" defaultValue="1" defaultSysSet="true" preserve_in_restore="true" />
+  <setting id="966" name="ringtone_sound_phone_2_set" value="1" package="com.meizu.customizecenter" defaultValue="1" defaultSysSet="true" preserve_in_restore="true" />
+  <setting id="87" name="headset_middle_key_wakeup" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="98" name="subscreen_switch" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="184" name="flyme_version_setting_up" value="0" package="com.flyme.systemuitools" defaultValue="0" defaultSysSet="true" preserve_in_restore="true" />
+  <setting id="980" name="volume_ring_speaker" value="15" package="android" defaultValue="15" defaultSysSet="true" />
+  <setting id="4739" name="han_keyguard_changed" value="0" package="com.android.systemui" defaultValue="0" defaultSysSet="true" preserve_in_restore="true" />
+  <setting id="110" name="peak_refresh_rate" value="90" package="android" defaultValue="90" defaultSysSet="true" />
+  <setting id="39" name="mz_quick_wakeup_double_click" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="165" name="system_guide_close_lockscreenposter" value="1" package="com.meizu.setup" defaultValue="1" defaultSysSet="true" />
+  <setting id="27" name="time_12_24" value="24" package="android" defaultValue="24" defaultSysSet="true" />
+  <setting id="91" name="mz_holster_hall_mode" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="25" name="light_feedback_enabled" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="126" name="system_locales" value="zh-CN" package="android" defaultValue="zh-CN" defaultSysSet="true" />
+  <setting id="171" name="is_need_pass_int_theme" value="1" package="com.meizu.customizecenter" defaultValue="1" defaultSysSet="true" />
+  <setting id="346" name="key_enter_browser_page_times" value="1" package="com.meizu.net.nativelockscreen" defaultValue="1" defaultSysSet="true" />
+  <setting id="2" name="volume_system" value="8" package="android" defaultValue="8" defaultSysSet="true" />
+  <setting id="109" name="mz_use_flyme_navigation_bar" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="386" name="statusbar_battery_style" value="1" package="com.android.settings" defaultValue="1" defaultSysSet="true" />
+  <setting id="314" name="varied_wallpaper_switch" value="0" package="com.meizu.customizecenter" defaultValue="0" defaultSysSet="true" preserve_in_restore="true" />
+  <setting id="113" name="super_stereo_sound" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="52" name="mz_smart_voice_wakeup_by_voice" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="104" name="subscreen_notification" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="59" name="mz_smart_touch_behavior_leftright" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="21" name="sound_effects_enabled" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="76" name="haptic_feedback_keyboard_enable" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="338" name="first_start_process_time" value="1655716362966" package="com.meizu.net.nativelockscreen" defaultValue="1655716362966" defaultSysSet="true" />
+  <setting id="4815" name="aod_current_preview" value="/data/aod/preview/preview.jpg" package="com.flyme.aod" defaultValue="/data/aod/preview/preview.jpg" defaultSysSet="true" preserve_in_restore="true" />
+  <setting id="101" name="subscreen_take_photo" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="333" name="settings_is_allow_show_text_in_lockscreen" value="1" package="com.meizu.net.nativelockscreen" defaultValue="1" defaultSysSet="true" />
+  <setting id="81" name="key_system_tips_sound" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="201" name="luckymoney_wechat_flag" value="17" package="com.flyme.systemuitools" defaultValue="17" defaultSysSet="true" preserve_in_restore="true" />
+  <setting id="191" name="settings_festival_wallpaper_switch" value="1" package="com.meizu.customizecenter" defaultValue="1" defaultSysSet="true" preserve_in_restore="true" />
+  <setting id="4464" name="screen_brightness" value="386" package="android" defaultValue="386" defaultSysSet="true" />
+  <setting id="63" name="mz_scheduled_power_off" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="35" name="mz_intelligent_voice" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="215" name="mz_assistant_app_open_state" value="0" package="com.meizu.flyme.launcher" defaultValue="0" defaultSysSet="true" preserve_in_restore="true" />
+  <setting id="963" name="ringtone_sound_phone_1" value="content://media/external/audio/media/86" package="com.meizu.customizecenter" defaultValue="content://media/external/audio/media/86" defaultSysSet="true" preserve_in_restore="true" />
+  <setting id="965" name="ringtone_sound_phone_2" value="content://media/external/audio/media/86" package="com.meizu.customizecenter" defaultValue="content://media/external/audio/media/86" defaultSysSet="true" preserve_in_restore="true" />
+  <setting id="347" name="settings_lock_screen_poster_shutdown" value="1" package="com.meizu.net.nativelockscreen" defaultValue="1" defaultSysSet="true" preserve_in_restore="true" />
+  <setting id="4433" name="notification_wakeup_screen" value="0" package="root" defaultValue="0" defaultSysSet="true" preserve_in_restore="true" />
+  <setting id="3369" name="HIDE_WHEN_SCREENSHOT" value="0" package="com.android.systemui" defaultValue="0" defaultSysSet="true" preserve_in_restore="true" />
+  <setting id="34" name="sns_enable" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="288" name="volume_voice_speaker" value="9" package="android" defaultValue="9" defaultSysSet="true" />
+  <setting id="219" name="mz_picker_confirm_result_timeout" value="0" package="com.meizu.picker" defaultValue="0" defaultSysSet="true" preserve_in_restore="true" />
+  <setting id="53" name="enable_full_screen_drag" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="18" name="haptic_feedback_enabled" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="117" name="mz_earphone_feedback_enabled_force_disable" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="214" name="disable_scroll_up_open_search" value="1" package="com.meizu.flyme.launcher" defaultValue="1" defaultSysSet="true" preserve_in_restore="true" />
+  <setting id="44" name="mz_quick_wakeup_draw_c" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="45" name="mz_quick_wakeup_draw_e" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="46" name="mz_quick_wakeup_draw_m" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="47" name="mz_quick_wakeup_draw_o" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="48" name="mz_quick_wakeup_draw_s" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="49" name="mz_quick_wakeup_draw_v" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="50" name="mz_quick_wakeup_draw_w" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="51" name="mz_quick_wakeup_draw_z" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="93" name="homekey_volume_level" value="32" package="android" defaultValue="32" defaultSysSet="true" />
+  <setting id="218" name="mz_picker_send_result_timeout" value="500" package="com.meizu.picker" defaultValue="500" defaultSysSet="true" preserve_in_restore="true" />
+</settings>
+<namespaceHashes />

@@ -1,0 +1,26 @@
+{
+  "aodStyle": 0,
+  "aodType": 0,
+  "bold": 0,
+  "color": [
+    -1,
+    -1
+  ],
+  "colorIndex": 0,
+  "composing": 0,
+  "fontSize": 0,
+  "index": 0,
+  "isShowBattery": 0,
+  "isShowCalendar": 0,
+  "isShowFootstep": 0,
+  "isShowLunarCalendar": 0,
+  "isShowNotification": 0,
+  "isShowRaiseTime": 0,
+  "isShowTime": 0,
+  "isShowWeather": 0,
+  "personalImage": "/data/aod/image/myImage.jpg",
+  "subStyle": 0,
+  "typeString": "自定义图案"
+}
+
+{"aodStyle":0,"aodType":0,"bold":0,"color":[-1,-1],"colorIndex":0,"composing":0,"fontSize":0,"index":0,"isShowBattery":0,"isShowCalendar":0,"isShowFootstep":0,"isShowLunarCalendar":0,"isShowNotification":0,"isShowRaiseTime":0,"isShowTime":0,"isShowWeather":0,"personalImage":"/data/aod/image/myImage.jpg","subStyle":0,"typeString":"自定义图案"}
